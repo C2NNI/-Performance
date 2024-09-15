@@ -1,0 +1,2 @@
+Ulyanov Artem
+Python 3.12
